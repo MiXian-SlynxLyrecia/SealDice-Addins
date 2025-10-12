@@ -2,7 +2,7 @@
 // @name         击毙群友
 // @author       米线
 // @version      1.1.0
-// @Stage        窝要鸡弊泥门索有人Usage：击毙群友@xxx | .击毙群友 help
+// @Stage        基于某人佬神秘插件改出来的和谐版，窝要鸡弊泥门索有人！！！Usage：击毙群友@xxx | .击毙群友 help
 // @timestamp    0
 // @license      MIT
 // @homepageURL  https://github.com/
@@ -523,4 +523,5 @@ KO状态：被击毙${shootLimit.beKOd}次后进入昏迷状态`;
     ext.cmdMap['shootplus'] = cmdShootPlus;
     // 添加中文别名
     ext.cmdMap['击毙扩展'] = cmdShootPlus;
+
 }
