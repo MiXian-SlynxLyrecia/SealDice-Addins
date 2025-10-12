@@ -50,7 +50,7 @@ const CONFIG = {
 };
 
 // 卡牌池配置 - 修改这里添加你的卡牌，唔，我没玩过所以卡牌这里是ds帮我写的，和原版不同不要骂我
-// 顺便一提，没配置权重是因为我忘记了复制粘贴完才想起来，可以参考我发的抽卡插件模板
+// 顺便一提，没配置权重是因为我忘记了复制粘贴完才想起来，可以参考我发的抽卡插件模板，嘛，这样子才方便一个一个抽吧
 const CARD_POOL = [
   // 攻击牌
   "打击", "打击", "打击", "打击", "打击", "打击",
@@ -538,5 +538,6 @@ ext.cmdMap[CONFIG.DECK_CMD] = cmdDeck;
 ext.cmdMap[CONFIG.SHUFFLE_CMD] = cmdShuffle;
 ext.cmdMap[CONFIG.STATUS_CMD] = cmdStatus;
 ext.cmdMap[CONFIG.RESET_CMD] = cmdReset;
+
 
 console.log(`${CONFIG.SYSTEM_NAME} 加载完成`);
