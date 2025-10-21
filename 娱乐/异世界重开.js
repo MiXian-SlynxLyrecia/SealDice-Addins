@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         异世界人生重开模拟器
 // @author       米线
-// @version      4.1.0
+// @version      1.0.0
 // @description  大运把我撞飞了喵/使用.异界重开即刻开始
 // @timestamp    0
 // @license      Apache-2
