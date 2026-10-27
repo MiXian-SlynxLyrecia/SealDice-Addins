@@ -5,7 +5,6 @@
 // @description  一个通用的抽卡系统模板，可快速创建不同主题的抽卡池
 // @timestamp    0
 // @license      Apache-2
-// @homepageURL  https://github.com/sealdice/javascript
 // ==/UserScript==
 
 // ================================
